@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a8b27b1.chunk.css",
+    "main.css": "/static/css/main.34290ad2.chunk.css",
     "main.js": "/static/js/main.241ec205.chunk.js",
     "main.js.map": "/static/js/main.241ec205.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3bc4b5c.js",
@@ -8,7 +8,7 @@
     "static/js/2.9174611a.chunk.js": "/static/js/2.9174611a.chunk.js",
     "static/js/2.9174611a.chunk.js.map": "/static/js/2.9174611a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3a8b27b1.chunk.css.map": "/static/css/main.3a8b27b1.chunk.css.map",
+    "static/css/main.34290ad2.chunk.css.map": "/static/css/main.34290ad2.chunk.css.map",
     "static/js/2.9174611a.chunk.js.LICENSE.txt": "/static/js/2.9174611a.chunk.js.LICENSE.txt",
     "static/js/main.241ec205.chunk.js.LICENSE.txt": "/static/js/main.241ec205.chunk.js.LICENSE.txt",
     "static/media/blk-design-system-react.scss?v=1.2.0": "/static/media/night-sky.e6a30d27.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.f3bc4b5c.js",
     "static/js/2.9174611a.chunk.js",
-    "static/css/main.3a8b27b1.chunk.css",
+    "static/css/main.34290ad2.chunk.css",
     "static/js/main.241ec205.chunk.js"
   ]
 }
