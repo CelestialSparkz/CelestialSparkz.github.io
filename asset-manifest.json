@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce849388.css",
-    "main.js": "/static/js/main.5303967f.js",
+    "main.css": "/static/css/main.3cd6f52b.css",
+    "main.js": "/static/js/main.b86fbd83.js",
     "static/media/darken-night-sky.png": "/static/media/darken-night-sky.049a2cd26a85856a45e6.png",
     "static/media/night-sky.png": "/static/media/night-sky.e6a30d27482b2b409f71.png",
     "static/media/nucleo.eot": "/static/media/nucleo.bd5cce8bf40be5947637.eot",
     "static/media/nucleo.ttf": "/static/media/nucleo.35b08447277ca7bf9f09.ttf",
+    "static/media/Equip_2.png": "/static/media/Equip_2.39a2fbd92c61c35da26a.png",
+    "static/media/Equip_3.png": "/static/media/Equip_3.49683f85949afa008089.png",
+    "static/media/Equip_5.png": "/static/media/Equip_5.50c3b3e330057707d404.png",
+    "static/media/Equip_4.png": "/static/media/Equip_4.d0188ff432350bf54e97.png",
     "static/media/nucleo.woff": "/static/media/nucleo.5c65ef4d6434bb8062a3.woff",
     "static/media/nucleo.woff2": "/static/media/nucleo.6dfb4833e3a0132fd1fc.woff2",
     "static/media/UnknownBanner.png": "/static/media/UnknownBanner.61ce11792c4cf472816a.png",
+    "static/media/Equip_1.png": "/static/media/Equip_1.fabd3b9b3a7d9d82c147.png",
     "index.html": "/index.html",
-    "main.ce849388.css.map": "/static/css/main.ce849388.css.map",
-    "main.5303967f.js.map": "/static/js/main.5303967f.js.map"
+    "main.3cd6f52b.css.map": "/static/css/main.3cd6f52b.css.map",
+    "main.b86fbd83.js.map": "/static/js/main.b86fbd83.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce849388.css",
-    "static/js/main.5303967f.js"
+    "static/css/main.3cd6f52b.css",
+    "static/js/main.b86fbd83.js"
   ]
 }
