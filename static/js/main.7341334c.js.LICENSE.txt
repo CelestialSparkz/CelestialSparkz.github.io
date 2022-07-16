@@ -24,6 +24,8 @@ object-assign
  * Released under the MIT License
  */
 
+/*! nouislider - 14.6.3 - 11/19/2020 */
+
 /**
  * React Router DOM v6.3.0
  *
