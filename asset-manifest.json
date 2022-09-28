@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2595597e.css",
-    "main.js": "/static/js/main.45112b07.js",
+    "main.css": "/static/css/main.b42bf810.css",
+    "main.js": "/static/js/main.37a1746c.js",
     "static/media/darken-night-sky.png": "/static/media/darken-night-sky.049a2cd26a85856a45e6.png",
     "static/media/night-sky.png": "/static/media/night-sky.e6a30d27482b2b409f71.png",
     "static/media/nucleo.eot": "/static/media/nucleo.bd5cce8bf40be5947637.eot",
@@ -15,11 +15,11 @@
     "static/media/UnknownBanner.png": "/static/media/UnknownBanner.61ce11792c4cf472816a.png",
     "static/media/Equip_1.png": "/static/media/Equip_1.fabd3b9b3a7d9d82c147.png",
     "index.html": "/index.html",
-    "main.2595597e.css.map": "/static/css/main.2595597e.css.map",
-    "main.45112b07.js.map": "/static/js/main.45112b07.js.map"
+    "main.b42bf810.css.map": "/static/css/main.b42bf810.css.map",
+    "main.37a1746c.js.map": "/static/js/main.37a1746c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2595597e.css",
-    "static/js/main.45112b07.js"
+    "static/css/main.b42bf810.css",
+    "static/js/main.37a1746c.js"
   ]
 }
